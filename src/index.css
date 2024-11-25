@@ -1,0 +1,13 @@
+body{
+  display: flex;
+  justify-content: center;
+  margin-top: 5rem;
+}
+
+.input-match{
+  background-color: rgb(199, 117, 117);
+
+}
+.input{
+  background-color: lightblue;
+}
